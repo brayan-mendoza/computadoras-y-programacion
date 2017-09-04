@@ -1,4 +1,4 @@
-Mendoza Figueroa Brian Daniel
-brayan-mendoza  
-atomic_daniel@live.com  
-Computadoras y Programacion
+nombre:Mendoza Figueroa Brian Daniel
+usuario:brayan-mendoza  
+correo:atomic_daniel@live.com  
+asignatura:Computadoras y Programacion
